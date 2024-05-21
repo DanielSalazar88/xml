@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+<items>
+    <item category="A">
+        <name>Item 1</name>
+        <value>10</value>
+        <category>A</category>
+    </item>
+    <item category="B">
+        <name>Item 2</name>
+        <value>20</value>
+        <category>B</category>
+    </item>
+    <item category="A">
+        <name>Item 3</name>
+        <value>30</value>
+        <category>A</category>
+    </item>
+    <item category="B">
+        <name>Item 4</name>
+        <value>40</value>
+        <category>B</category>
+    </item>
+</items>
