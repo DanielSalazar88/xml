@@ -21,4 +21,14 @@
         <value>40</value>
         <category>B</category>
     </item>
+    <item category="C">
+        <name>Item 4</name>
+        <value>40</value>
+        <category>C</category>
+    </item>
+    <item category="C">
+        <name>Item 4</name>
+        <value>40</value>
+        <category>C</category>
+    </item>
 </items>
