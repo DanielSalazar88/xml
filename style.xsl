@@ -10,10 +10,10 @@
             <head>
                 <!-- Enlace al archivo CSS de Bootstrap -->
                 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
-                
+
                 <!-- Script de JavaScript para aplicar el filtro -->
                 <script src="functions.js">
-            
+
                 </script>
             </head>
             <body>
@@ -68,6 +68,9 @@
                             </p>
                         </div>
                     </div>
+                </div>
+                <div class="text-center mb-4">
+                    <img src="./arbol.png" alt="Descripción de la imagen" class="img-fluid" />
                 </div>
             </body>
         </html>
